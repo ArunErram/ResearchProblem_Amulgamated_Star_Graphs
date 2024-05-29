@@ -1,1 +1,1 @@
-# Homogenious_Amulgamated_Star_Graph
+# Amulgamated_Star_Graph
