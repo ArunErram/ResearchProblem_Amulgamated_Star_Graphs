@@ -19,6 +19,7 @@ The greedy algorithm is a heuristic-based approach that assigns labels to vertic
 
 **Limitations:**
 These greedy approch is bounded for some limited n values.
+On Furthure Development the limitation will be overcome.
 
 ### 2. Backtracking Algorithm
 
